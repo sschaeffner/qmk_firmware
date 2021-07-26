@@ -1,3 +1,11 @@
+# SETUP
+
+```
+qmk setup -H ~/Developer/qmk_firmware
+qmk config user.keymap=sschaeffner
+qmk config user.keyboard=kbdfans/kbd75/rev2
+```
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
