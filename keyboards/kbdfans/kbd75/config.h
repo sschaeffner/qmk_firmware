@@ -3,9 +3,12 @@
 #include "config_common.h"
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID       0x4B42
+// #define VENDOR_ID       0x4B42
 #define MANUFACTURER    qmkbuilder
 #define PRODUCT         KBD75
+
+#define VENDOR_ID       0x05ac // Apple Inc
+#define PRODUCT_ID      0x021e // Aluminum Compact Keyboard (ISO)
 
 /* key matrix size */
 #define MATRIX_ROWS 6
