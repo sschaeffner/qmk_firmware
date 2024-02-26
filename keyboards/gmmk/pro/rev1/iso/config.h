@@ -16,6 +16,11 @@
 
 #pragma once
 
+#define VENDOR_ID       0x05ac // Apple Inc
+#define PRODUCT_ID      0x021e // Aluminum Compact Keyboard (ISO)
+
+#define MANUFACTURER    "qmkbuilder"
+#define PRODUCT         "GMMKPRO"
 
 #define DRIVER_1_LED_TOTAL 66
 #define DRIVER_2_LED_TOTAL 33
